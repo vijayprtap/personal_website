@@ -1,0 +1,50 @@
+{
+    "title": "My Resume",
+    "work_experience": [
+        {
+            "left": true,
+            "position": "Electronics & Firmware Engineer",
+            "company": "Bodhi Labs - 2024 - Present",
+            "description": "Skills: EasyEDA · Bitbucket · Electronic Speed Controller · Bldc Motors · BlHeli · Bluetooth Low Energy · Git"
+        },
+        {
+            "left": false,
+            "position": "Junior Embedded Engineer",
+            "company": "City Greens - Aug 2023 - Dec 2023",
+            "description": "1) Worked on Modbus protocol for extracting energy meter data and monitoring power parameters.<br><br> 2) Skilled in wireless communication using NRF (Nordic RF) modules, enabling remote data transfer and control.<br><br> 3) Experienced in establishing multiple slave communication on an RS485 bus, ensuring seamless data exchange within a network.<br><br> 4) Designed and implemented various farm setups, including deep water culture, Dutch bucket, NFT, Aeroponics, Climate control, Retractable Roof and Indoor vertical farm systems.<br><br>Others: Real Time Clock, HTTP, Esp NOW,Electrical Panels assembly, plumbing.<br><br>Skills: Geothermal Heating & Cooling · Solar Panel Installation · Electrical Equipment · Electrical Wiring · Carpentry · Plumbing · Monitoring · Automation · Internet of Things (IoT) · RTOS · Modbus"
+            
+        },
+        {
+            "left": true,
+            "position": "Engineering Project Developer",
+            "company": "Self Employed - Apr 2022 - Aug 2023",
+            "description": "1) Design and developed numerous engineering projects for other Students"
+        },
+        {
+            "left": false,
+            "position": "PCB Design Intern",
+            "company": "Ahoy System pvt ltd - Oct 2021 - Mar 2022",
+            "description": "1) Run quality controls on components and final products. <br><br>2)Suggest fixes and improvements.<br><br>3)Assist in designing and developing Printed Circuit Boards (PCB).<br><br>4) Use Autodesk Eagle in preparing PCB assembly and schematic."
+        },
+        {
+            "left": true,
+            "position": "Embedded Engineer Intern",
+            "company": "Ahoy Systems- Apr 2021 - Sep 2023",
+            "description": "1). Work with the product design team and develop low level firmware in C based on requirements.<br><br> 2). Integrate digital and Analog modules, such as sensors/actuators with microcontroller units.<br><br> 3).Work on debugging and fixing hardware issues. <br><br>4).Validate the implemented firmware on the field<br><br>5).Develop test environments and test cases for all mechanical and electrical systems. <br><br> 6). Document technical issues and solutions and product manual."
+        }
+    ],
+    "education": [
+        {
+            "left": false,
+            "degree": "Bachelor's Degree Electronics & Communication Engineering",
+            "institute": "Ganga Institute of Technology & Management  - 2020 - 2023",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+        },
+        {
+            "left": true,
+            "degree": "Diploma in Electronics & Communication Engineering",
+            "institute": "Guru Tegh Bahadur Institute of Technology - 2015 - 2018",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+        }
+    ]     
+}

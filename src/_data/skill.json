@@ -1,0 +1,99 @@
+{
+    "title": "Skills",
+    "round_level": [
+        {
+            "name": "C Language",
+            "rating": "75"
+        },
+        {
+            "name": "Pcb Design",
+            "rating": "55"
+        },
+        {
+            "name": "FreeRtos",
+            "rating": "50"
+        },
+        {
+            "name": "Modbus",
+            "rating": "80"
+        },
+        {
+            "name": "PCB Testing",
+            "rating": "70"
+        },
+        {
+            "name": "Python ",
+            "rating": "30"
+        },
+        {
+            "name": "Ardiuno",
+            "rating": "90"
+        },
+        {
+            "name": "ESP-32    MCU's",
+            "rating": "75"
+        }
+    ],
+    "bar_level": [
+        {
+            "id": "1",//blue
+            "left": true,
+            "name": "Bluetooth Low Energy",
+            "rating": "15"
+        },
+        {
+            "id": "2",//red
+            "left": true,
+            "name": "Solar Panel Installation",
+            "rating": "100"
+        },
+        {
+            "id": "4",//purple
+            "left": true,
+            "name": "I2C",
+            "rating": "88"
+        },
+        {
+            "id": "5",
+            "left": true,
+            "name": "UART",
+            "rating": "80"
+        },
+        {
+            "id": "6",
+            "left": true,
+            "name": "Linux",
+            "rating": "25"
+        },
+        {
+            "id": "3",
+            "left": false,
+            "name": "STM-32   MCU's",
+            "rating": "25"
+        },
+        {
+            "id": "5",
+            "left": false,
+            "name": "Git",
+            "rating": "25"
+        },
+        {
+            "id": "4",
+            "left": false,
+            "name": "Project Management",
+            "rating": "75"
+        },
+        {
+            "id": "3",
+            "left": false,
+            "name": "SPI",
+            "rating": "65"
+        },
+        {
+            "id": "2",
+            "left": false,
+            "name": "ESP Now",
+            "rating": "55"
+        }
+    ]
+}

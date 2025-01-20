@@ -1,0 +1,29 @@
+{
+    "title": "My Projects",
+    "projects": [
+        {
+            "title": "Arudino",
+            "image": "images/arduino.jpg"
+        },
+        {
+            "title": "PCB Designs",
+            "image": "images/pcb.jpg"
+        },
+        {
+            "title": "Electronics",
+            "image": "images/electronics.jpg"
+        },
+        {
+            "title": "STM Microcontrollers",
+            "image": "images/stm.jpeg"
+        },
+        {
+            "title": "3D Printing",
+            "image": "images/3dprint.jpg"
+        },
+        {
+            "title": "ESP32 Microcontrollers",
+            "image": "images/esp.jpg"
+        }
+    ]
+}
