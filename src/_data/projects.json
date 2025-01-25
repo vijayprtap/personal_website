@@ -8,42 +8,49 @@
             "url": "#arduino",
             "articles": [
                 {
-                    "title": "Building an IoT Garbage Monitoring System",
-                    "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qoPJyw0DIosJrJAqgLQ3eg.jpeg",
-                    "link": "https://medium.com/@vijayypratap002/building-an-iot-garbage-monitoring-system-a-detailed-overview-420200cda7d3"
-                },
-                {
-                    "title": "Building an IoT Garbage Monitoring System",
-                    "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qoPJyw0DIosJrJAqgLQ3eg.jpeg",
-                    "link": "https://medium.com/@vijayypratap002/building-an-iot-garbage-monitoring-system-a-detailed-overview-420200cda7d3"
-                },
-                {
-                    "title": "Building an IoT Garbage Monitoring System",
-                    "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qoPJyw0DIosJrJAqgLQ3eg.jpeg",
-                    "link": "https://medium.com/@vijayypratap002/building-an-iot-garbage-monitoring-system-a-detailed-overview-420200cda7d3"
-                },
-                {
-                    "title": "Building an IoT Garbage Monitoring System",
-                    "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qoPJyw0DIosJrJAqgLQ3eg.jpeg",
-                    "link": "https://medium.com/@vijayypratap002/building-an-iot-garbage-monitoring-system-a-detailed-overview-420200cda7d3"
-                },
-                {
-                    "title": "Building an IoT Garbage Monitoring System",
-                    "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qoPJyw0DIosJrJAqgLQ3eg.jpeg",
-                    "link": "https://medium.com/@vijayypratap002/building-an-iot-garbage-monitoring-system-a-detailed-overview-420200cda7d3"
+                    "title": "Building a Sun Tracking Solar Panel with Temperature, Humidity, and Power Monitoring.",
+                    "image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*_gzybRl-duf2Ob-pTv-KGg.jpeg",
+                    "link": "https://medium.com/@vijayypratap002/building-a-sun-tracking-solar-panel-with-temperature-humidity-and-power-monitoring-da0413e8ddb2"
                 }
+
             ]
         },
+       
         {
-            "title": "PCB Designs",
-            "image": "/images/pcb.jpg",
-            "url": "#pcb-designs",
+            "title": "ESP32 Microcontrollers",
+            "image": "/images/esp.jpg",
+            "url": "#esp32-microcontrollers",
             "articles": [
                 {
                     "title": "Building an IoT Garbage Monitoring System",
                     "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qoPJyw0DIosJrJAqgLQ3eg.jpeg",
                     "link": "https://medium.com/@vijayypratap002/building-an-iot-garbage-monitoring-system-a-detailed-overview-420200cda7d3"
+                },
+                {
+                    "title": "Energy Conservation and Monitoring System with IR-Based Smart Lights and Solar Panels",
+                    "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*V-CCwrewUvJ4AvlWvvZHYA.jpeg",
+                    "link": "https://medium.com/@vijayypratap002/energy-conservation-and-monitoring-system-with-ir-based-smart-lights-and-solar-panels-fe1386688105"    
+                },
+                {
+                    "title": "Building an RFID Attendance System with ESP8266: A Comprehensive Guide",
+                    "image": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*nS9T5p8-Zbg6_lwBJmyq6A.jpeg",
+                    "link": "https://medium.com/@vijayypratap002/building-an-rfid-attendance-system-with-esp8266-a-comprehensive-guide-ed3843a0fcba"
+                },
+                {
+                    "title": "Building a Live COVID Outbreak Tracker with ESP32",
+                    "image": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*YHAqjGaCJ-gVtK10Gypuwg.jpeg",
+                    "link": "https://medium.com/@vijayypratap002/building-a-live-covid-outbreak-tracker-with-esp32-cb2b3c7f25e1"
                 }
+            
+            ]
+         },
+         {
+            "title": "PCB Designs",
+            "image": "/images/pcb.jpg",
+            "url": "#pcb-designs",
+            "articles": [
+               
+           
             ]
         },
         {
@@ -51,11 +58,7 @@
             "image": "/images/electronics.jpg",
             "url": "#electronics",
             "articles": [
-                {
-                    "title": "Building an IoT Garbage Monitoring System",
-                    "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qoPJyw0DIosJrJAqgLQ3eg.jpeg",
-                    "link": "https://medium.com/@vijayypratap002/building-an-iot-garbage-monitoring-system-a-detailed-overview-420200cda7d3"
-                }
+              
             ]
         },
         {
@@ -63,29 +66,13 @@
             "image": "/images/stm.jpeg",
             "url": "#sim-microcontrollers",
             "articles": [
-                {
-                    "title": "Building an IoT Garbage Monitoring System",
-                    "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qoPJyw0DIosJrJAqgLQ3eg.jpeg",
-                    "link": "https://medium.com/@vijayypratap002/building-an-iot-garbage-monitoring-system-a-detailed-overview-420200cda7d3"
-                }
+               
             ]
         },
         {
             "title": "3D Printing",
             "image": "/images/3dprint.jpg",
             "url": "#3d-printing",
-            "articles": [
-                {
-                    "title": "Building an IoT Garbage Monitoring System",
-                    "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qoPJyw0DIosJrJAqgLQ3eg.jpeg",
-                    "link": "https://medium.com/@vijayypratap002/building-an-iot-garbage-monitoring-system-a-detailed-overview-420200cda7d3"
-                }
-            ]
-        },
-        {
-            "title": "ESP32 Microcontrollers",
-            "image": "/images/esp.jpg",
-            "url": "#esp32-microcontrollers",
             "articles": [
                 {
                     "title": "Building an IoT Garbage Monitoring System",
