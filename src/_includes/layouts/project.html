@@ -1,0 +1,38 @@
+{% extends "layouts/base.html" %}
+{% block content %}
+{% include "partials/site-head.html" %}
+<div id="embedded-projects">
+    <div class="container my-5">
+        <h1>{{ projects.title }}</h1>
+        <p>{{ projects.description }}</p>
+    </div>
+    {% for topic in projects.topics %}
+    <div id="{{ topic.url | replace('#', '') }}" class="container my-5 py-5">
+        <div class="row bg-custom-orange text-white my-3">
+            <h2>
+                {{ topic.title }}
+            </h2>
+        </div>
+        <div class="row g-5">
+            {% for article in topic.articles %}
+            {% if loop.index0 % 3 == 0 %}
+            <div class="row g-5">
+                {% endif %}
+                <div class="col-md-4">
+                    <div class="project-card">
+                        <img class="card-img-top" width="160" height="160" src="{{ article.image }}"
+                            alt="Card image cap">
+                        <div class="medium-link">
+                            <a href="{{ article.link }}">{{ article.title }}</a>
+                        </div>
+                    </div>
+                </div>
+            {% if loop.index0 % 3 == 2 or loop.last %}
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

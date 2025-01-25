@@ -1,0 +1,98 @@
+{
+    "title": "My Projects",
+    "description": "These projects i have worked on during my professional Experience",
+    "topics": [
+        {
+            "title": "Arudino",
+            "image": "/images/arduino.jpg",
+            "url": "#arduino",
+            "articles": [
+                {
+                    "title": "Building an IoT Garbage Monitoring System",
+                    "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qoPJyw0DIosJrJAqgLQ3eg.jpeg",
+                    "link": "https://medium.com/@vijayypratap002/building-an-iot-garbage-monitoring-system-a-detailed-overview-420200cda7d3"
+                },
+                {
+                    "title": "Building an IoT Garbage Monitoring System",
+                    "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qoPJyw0DIosJrJAqgLQ3eg.jpeg",
+                    "link": "https://medium.com/@vijayypratap002/building-an-iot-garbage-monitoring-system-a-detailed-overview-420200cda7d3"
+                },
+                {
+                    "title": "Building an IoT Garbage Monitoring System",
+                    "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qoPJyw0DIosJrJAqgLQ3eg.jpeg",
+                    "link": "https://medium.com/@vijayypratap002/building-an-iot-garbage-monitoring-system-a-detailed-overview-420200cda7d3"
+                },
+                {
+                    "title": "Building an IoT Garbage Monitoring System",
+                    "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qoPJyw0DIosJrJAqgLQ3eg.jpeg",
+                    "link": "https://medium.com/@vijayypratap002/building-an-iot-garbage-monitoring-system-a-detailed-overview-420200cda7d3"
+                },
+                {
+                    "title": "Building an IoT Garbage Monitoring System",
+                    "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qoPJyw0DIosJrJAqgLQ3eg.jpeg",
+                    "link": "https://medium.com/@vijayypratap002/building-an-iot-garbage-monitoring-system-a-detailed-overview-420200cda7d3"
+                }
+            ]
+        },
+        {
+            "title": "PCB Designs",
+            "image": "/images/pcb.jpg",
+            "url": "#pcb-designs",
+            "articles": [
+                {
+                    "title": "Building an IoT Garbage Monitoring System",
+                    "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qoPJyw0DIosJrJAqgLQ3eg.jpeg",
+                    "link": "https://medium.com/@vijayypratap002/building-an-iot-garbage-monitoring-system-a-detailed-overview-420200cda7d3"
+                }
+            ]
+        },
+        {
+            "title": "Electronics",
+            "image": "/images/electronics.jpg",
+            "url": "#electronics",
+            "articles": [
+                {
+                    "title": "Building an IoT Garbage Monitoring System",
+                    "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qoPJyw0DIosJrJAqgLQ3eg.jpeg",
+                    "link": "https://medium.com/@vijayypratap002/building-an-iot-garbage-monitoring-system-a-detailed-overview-420200cda7d3"
+                }
+            ]
+        },
+        {
+            "title": "STM Microcontrollers",
+            "image": "/images/stm.jpeg",
+            "url": "#sim-microcontrollers",
+            "articles": [
+                {
+                    "title": "Building an IoT Garbage Monitoring System",
+                    "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qoPJyw0DIosJrJAqgLQ3eg.jpeg",
+                    "link": "https://medium.com/@vijayypratap002/building-an-iot-garbage-monitoring-system-a-detailed-overview-420200cda7d3"
+                }
+            ]
+        },
+        {
+            "title": "3D Printing",
+            "image": "/images/3dprint.jpg",
+            "url": "#3d-printing",
+            "articles": [
+                {
+                    "title": "Building an IoT Garbage Monitoring System",
+                    "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qoPJyw0DIosJrJAqgLQ3eg.jpeg",
+                    "link": "https://medium.com/@vijayypratap002/building-an-iot-garbage-monitoring-system-a-detailed-overview-420200cda7d3"
+                }
+            ]
+        },
+        {
+            "title": "ESP32 Microcontrollers",
+            "image": "/images/esp.jpg",
+            "url": "#esp32-microcontrollers",
+            "articles": [
+                {
+                    "title": "Building an IoT Garbage Monitoring System",
+                    "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qoPJyw0DIosJrJAqgLQ3eg.jpeg",
+                    "link": "https://medium.com/@vijayypratap002/building-an-iot-garbage-monitoring-system-a-detailed-overview-420200cda7d3"
+                }
+            ]
+        }
+    ]
+}

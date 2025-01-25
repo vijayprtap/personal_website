@@ -36,19 +36,19 @@
     ],
     "bar_level": [
         {
-            "id": "1",//blue
+            "id": "1",
             "left": true,
             "name": "Bluetooth Low Energy",
             "rating": "15"
         },
         {
-            "id": "2",//red
+            "id": "2",
             "left": true,
             "name": "Solar Panel Installation",
             "rating": "100"
         },
         {
-            "id": "4",//purple
+            "id": "4",
             "left": true,
             "name": "I2C",
             "rating": "88"
