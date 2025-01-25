@@ -1,6 +1,6 @@
 ---
 title: 'Vijay Portfolio'
-layout: 'layouts/base.html'
+layout: 'layouts/home.html'
 ---
 
 Welcome to adisept blog.
