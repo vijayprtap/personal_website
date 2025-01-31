@@ -19,19 +19,21 @@
                 {% endif %}
                 <div class="col-md-4">
                     <div class="project-card">
-                        <img class="card-img-top" width="160" height="160" src="{{ article.image }}"
-                            alt="Card image cap">
-                        <div class="medium-link">
-                            <a href="{{ article.link }}"><strong>{{ article.title }}</strong></a>
-                        </div>
+                        <a href="{{ article.link }}">
+                            <img class="card-img-top" width="160" height="160" src="{{ article.image }}"
+                                alt="Card image cap">
+                            <div class="medium-link">
+                                <strong>{{ article.title }}</strong>
+                        </a>
                     </div>
                 </div>
-            {% if loop.index0 % 3 == 2 or loop.last %}
             </div>
-            {% endif %}
-            {% endfor %}
+            {% if loop.index0 % 3 == 2 or loop.last %}
         </div>
+        {% endif %}
         {% endfor %}
     </div>
+    {% endfor %}
+</div>
 </div>
 {% endblock %}
