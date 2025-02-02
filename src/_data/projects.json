@@ -11,6 +11,11 @@
                     "title": "Building a Sun Tracking Solar Panel with Temperature, Humidity, and Power Monitoring.",
                     "image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*_gzybRl-duf2Ob-pTv-KGg.jpeg",
                     "link": "https://medium.com/@vijayypratap002/building-a-sun-tracking-solar-panel-with-temperature-humidity-and-power-monitoring-da0413e8ddb2"
+                },
+                {
+                    "title": "DIY Automatic Irrigation System — Save Water & Time!",
+                    "image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*5I81PoZd8xFDPCfzRpVnlQ.jpeg",
+                    "link": "https://medium.com/@vijayypratap002/diy-automatic-irrigation-system-save-water-time-fce9ce28b7cf"
                 }
 
             ]
@@ -40,6 +45,11 @@
                     "title": "Building a Live COVID Outbreak Tracker with ESP32",
                     "image": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*YHAqjGaCJ-gVtK10Gypuwg.jpeg",
                     "link": "https://medium.com/@vijayypratap002/building-a-live-covid-outbreak-tracker-with-esp32-cb2b3c7f25e1"
+                },
+                {
+                    "title": "Sending Sensor Data to ThingSpeak (No Libraries Needed!)",
+                    "image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*iszc6aN8YuoUuxhqOWf1Xw.jpeg",
+                    "link": "https://medium.com/@vijayypratap002/sending-sensor-data-to-thingspeak-no-libraries-needed-0c9f0c806a2f"
                 }
             
             ]
